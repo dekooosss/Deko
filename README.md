@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>HW1 for MSDM5001 HKUST</title>
-    </head>
     <body>
         <p>Hello everyone. My name is QI, Zhuliang, and you can also call me Wayne or Deko.</p>
         <p>Welcome all of you coming to my webpage!</p>
